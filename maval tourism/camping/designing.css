@@ -1,0 +1,16 @@
+.headerstyle
+{
+    background-color: yellow;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    text-align: center;
+}
+.paragraphstyle
+{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    }
+   
